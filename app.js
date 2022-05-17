@@ -6,29 +6,29 @@ $(document).ready(function(){
 
     $('#linkPractica1').click(function(){
         console.log("Presiono link Practica1");
-        location.href = "../Practica1/index.html";
+        location.href = "https://brandonalex24.github.io/practica1/";
     })
 
     $('#linkPractica2').click(function(){
         console.log("Presiono link Practica2");
-        location.href = "../Practica2/index.html";
+        location.href = "https://brandonalex24.github.io/practica2/";
     })
 
     $('#linkPractica3').click(function(){
-        console.log("../Practica3/index.html");
+        console.log("https://brandonalex24.github.io/practica3/");
     })
 
     $('#btnPractica1').click(function(){
         console.log("Presiono link Practica1");
-        location.href = "../Practica1/index.html";
+        location.href = "https://brandonalex24.github.io/practica1/";
     })
     $('#btnPractica2').click(function(){
         console.log("Presiono link Practica2");
-        location.href = "../Practica2/index.html";
+        location.href = "https://brandonalex24.github.io/practica2/";
     })
     $('#btnPractica3').click(function(){
         console.log("Presiono link Practica3");
-        location.href = "../Practica3/index.html";
+        location.href = "https://brandonalex24.github.io/practica3/";
     })
 
 });
